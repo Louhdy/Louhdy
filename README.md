@@ -3,7 +3,7 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/ZYtqwp9/OIP-modified.png" alt="OIP" border="0" height="150"/></a>
 </div>
 <br/>
-I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others.
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, Next.js, Vue, Node.js, Nuxt) Python among others.
 <br/>
 <br/>
 <div align="center">
