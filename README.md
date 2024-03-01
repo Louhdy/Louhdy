@@ -36,9 +36,12 @@ I'm a Full-Stack developer who likes to work with JavaScript/Typescript (React, 
   <a href="https://www.linkedin.com/in/melgomezgar/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="30" alt="linkedin logo"  />
   </a>
+  <img width="12" />
+  <a href="https://gitlab.com/Louhdy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="flutter logo"  />
+  </a>
 </div>
 
-###
 
 ###
 
